@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Laravel+%7C+Python;Building+Scalable+Web+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Laravel+%7C+Python" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
 <div align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60" alt="Kucing Oren Mondar Mandir" />
+  <img src="https://i.gifer.com/origin/34/3400224ceebce79412f1704df344baea_w200.gif" width="100" alt="Kucing Oren Mondar Mandir" />
   <br>
 </div>
 
