@@ -1,6 +1,14 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding Animation">
+</div>
+
 <h1 align="center">Hi there, I'm Amelia Kasrin! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="30px"></h1>
 
-<h3 align="center">Full-Stack Software Engineer | React • Next.js • Laravel • Python</h3>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;React+%7C+Next.js+%7C+Laravel+%7C+Python;Building+Scalable+Web+Apps;Data-Driven+Dashboard+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amelia-kasrin">
@@ -17,6 +25,7 @@
 ---
 
 ### 👨‍💻 About Me
+<img align="right" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding GIF">
 
 I am a results-driven **Full-Stack Software Engineer** based in West Sumatra, Indonesia. Graduated from Information Systems at UPI YPTK Padang, I specialize in building scalable web applications, data-driven industrial dashboards, and seamless user experiences.
 
@@ -25,6 +34,8 @@ I am a results-driven **Full-Stack Software Engineer** based in West Sumatra, In
 - 🎓 **Experiences:** Tech Acceleration at **RevoU** and Government sector experience at **Diskominfo**.
 - 🌱 Currently deep-diving into **Modern Next.js Architectures** and **TypeScript**.
 - ⚡ **Fun fact:** I love translating complex business requirements into clean, optimized, and maintainable code!
+
+<br clear="all">
 
 ---
 
@@ -62,3 +73,7 @@ I am a results-driven **Full-Stack Software Engineer** based in West Sumatra, In
   <img src="https://github-readme-stats.vercel.app/api?username=Amelia-Kasrin05&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB" alt="Amelia's GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amelia-Kasrin05&layout=compact&theme=transparent&hide_border=true&title_color=2563EB" alt="Amelia's Top Languages" width="48%" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" alt="Footer Waving">
+</div>
