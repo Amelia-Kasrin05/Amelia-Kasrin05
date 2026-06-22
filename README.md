@@ -20,11 +20,9 @@
   </a>
 </p>
 
-<div align="center">
-  <br>
-  <img src="https://i.gifer.com/origin/34/3400224ceebce79412f1704df344baea_w200.gif" width="100" alt="Kucing Oren Mondar Mandir" />
-  <br>
-</div>
+<p align="center">
+  <img src="https://media.tenor.com/2RoXqXz-184AAAAi/orange-cat-walking.gif" width="90" alt="Kucing Oren Jalan" />
+</p>
 
 ---
 
