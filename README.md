@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Amelia Kasrin! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy2/giphy.gif" width="30px">
+  Hi there, I'm Amelia Kasrin! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 </p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="60" alt="Kucing Jalan">
+  <img src="https://raw.githubusercontent.com/SanjayDevTech/SanjayDevTech/master/assets/coder.gif" width="130" alt="Kucing Ngoding">
 </div>
 
 ---
