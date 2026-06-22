@@ -22,7 +22,7 @@
 
 <div align="center">
   <br>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="150" alt="Bongo Cat Typing" />
+  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="60" alt="Kucing Oren Mondar Mandir" />
   <br>
 </div>
 
